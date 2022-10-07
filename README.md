@@ -1,4 +1,4 @@
-<div id="badges">
+I am an aspiring Full Stack Developer from Nigeria<div id="badges">
   <a href="https://www.linkedin.com/in/olanrewaju-abdulsalam-650b03242/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
