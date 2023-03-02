@@ -14,5 +14,5 @@ I am a Front-End Developer from Nigeria<div id="badges">
 </div>
 <div>
   <h1>My Skills</h1>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  ?i=js,html,css
 </div>
