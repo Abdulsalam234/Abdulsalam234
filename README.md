@@ -17,7 +17,7 @@
 <div>
   <a href="https://skillicons.dev">
     <h1>My Skills</h1>
-    <img align="center" src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,nextjs,tailwind&perline=2" />
+    <img  src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,nextjs&perline=3" />
   </a>
  </div>
 
