@@ -26,7 +26,7 @@
   </a>
   <a href="https://skillicons.dev">
     <h1>Social Media Links</h1>
-    <img src="https://skillicons.dev/icons?i=twitter,linkedin,instagram,stackoverflow	&perline=3" />
+    <img src="https://skillicons.dev/icons?i=twitter,linkedin,instagram,stackoverflow&perline=3" />
   </a>
  </div>
 
