@@ -24,5 +24,9 @@
     <h1>Version Control</h1>
     <img src="https://skillicons.dev/icons?i=github,vercel,git&perline=3" />
   </a>
+  <a href="https://skillicons.dev">
+    <h1>Social Media Links</h1>
+    <img src="https://skillicons.dev/icons?i=twitter,linkedin,instagram,stackoverflow	&perline=3" />
+  </a>
  </div>
 
