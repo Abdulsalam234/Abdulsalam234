@@ -12,7 +12,7 @@
   </a>
 </div>  -->
 <p align="center">You can contact me via <span>olanrewajuabdulsalam234@gmail.com<span></p>
-<div align="center">
+<div align="center" background-color="tomato">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
 </div>
 <div align="center">
