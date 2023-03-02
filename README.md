@@ -1,4 +1,4 @@
- <h1> I am a Front-End Developer from Nigeria</h1>
+ <h1 align="center"> I am a Front-End Developer from Nigeria</h1>
 
 <!-- <div id="badges">
   <a href="https://www.linkedin.com/in/olanrewaju-abdulsalam-650b03242/">
