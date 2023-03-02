@@ -28,5 +28,9 @@
     <h1>Social Media Links</h1>
     <img src="https://skillicons.dev/icons?i=twitter,linkedin,instagram,stackoverflow&perline=4" />
   </a>
+   <a href="https://skillicons.dev">
+    <h1>Operating Systems</h1>
+    <img src="https://skillicons.dev/icons?i=mac,linux,windows&perline=3" />
+  </a>
  </div>
 
