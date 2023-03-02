@@ -18,7 +18,7 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <h1>Skills</h1>
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,nextjs&perline=4" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,nextjs&perline=3" />
   </a>
   <a href="https://skillicons.dev">
     <h1>Version Control</h1>
@@ -26,7 +26,7 @@
   </a>
   <a href="https://skillicons.dev">
     <h1>Social Media Links</h1>
-    <img src="https://skillicons.dev/icons?i=twitter,linkedin,instagram,stackoverflow&perline=3" />
+    <img src="https://skillicons.dev/icons?i=twitter,linkedin,instagram,stackoverflow&perline=4" />
   </a>
  </div>
 
