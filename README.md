@@ -15,7 +15,7 @@
 <div align="center" >
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
 </div>
-<div align="center" background-color="tomato">
+<div align="center">
   <a href="https://skillicons.dev">
     <h1>Skills</h1>
     <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,nextjs&perline=3" />
