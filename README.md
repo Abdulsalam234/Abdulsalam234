@@ -14,10 +14,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
 </div>
-<div text-align="center">
+<div align="center">
   <a href="https://skillicons.dev">
     <h1>My Skills</h1>
-    <img  src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,nextjs&perline=3" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,nextjs&perline=3" />
   </a>
  </div>
 
