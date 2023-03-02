@@ -15,9 +15,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
 </div>
 <div>
-  <a href="https://skillicons.dev" align="center">
+  <a href="https://skillicons.dev">
     <h1>My Skills</h1>
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,nextjs,tailwind" />
+    <img align="center" src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,nextjs,tailwind&perline=2" />
   </a>
  </div>
 
