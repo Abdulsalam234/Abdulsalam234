@@ -30,7 +30,7 @@
   </a>
    <a href="https://skillicons.dev">
     <h1>Operating Systems</h1>
-    <img src="https://skillicons.dev/icons?i=mac,linux,windows&perline=3" />
+    <img src="https://skillicons.dev/icons?i=apple,linux,window&perline=3" />
   </a>
  </div>
 
