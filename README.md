@@ -17,8 +17,12 @@
 </div>
 <div align="center">
   <a href="https://skillicons.dev">
-    <h1>My Skills</h1>
+    <h1>Skills</h1>
     <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,nextjs&perline=3" />
+  </a>
+  <a href="https://skillicons.dev">
+    <h1>Version Control</h1>
+    <img src="https://skillicons.dev/icons?i=github,vercel,git&perline=3" />
   </a>
  </div>
 
