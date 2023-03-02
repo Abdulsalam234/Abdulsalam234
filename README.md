@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>  -->
-<p>You can contact me via <span>olanrewajuabdulsalam234@gmail.com<span></p>
+<p align="center">You can contact me via <span>olanrewajuabdulsalam234@gmail.com<span></p>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
 </div>
